@@ -1,0 +1,18 @@
+h1{
+    color: rgb(129, 60, 199);
+    background-color: rgb(190, 165, 214);
+}
+
+h2{
+    color: chocolate;
+    background-color: rgb(223, 190, 166);
+}
+
+#ul{
+    font-size: medium;
+    font-weight: 300;
+    font-style: italic;
+}
+body{
+    background-color: aquamarine;
+}
